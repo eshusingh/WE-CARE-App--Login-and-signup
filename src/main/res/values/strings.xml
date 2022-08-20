@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WE CARE</string>
+    <string name="we_care">We Care</string>
+    <string name="log_in">Log In</string>
+    <string name="email_or_user_name">Email or User Name</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="welcome_to_we_care">Welcome to WE Care!!!</string>
+    <string name="gazal">Guzar Jayega, Guzar Jayega  Mushkil Bohot Hai, Magar Waqt Hi Toh Hai,  Guzar Jayega ,Guzar Jayega</string>
+    <string name="line1">Guzar Jayega, Guzar Jayega</string>
+    <string name="para">
+Mushkil Bohot Hai,
+    </string>
+</resources>
